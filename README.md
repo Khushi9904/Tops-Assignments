@@ -4,5 +4,6 @@ SESSION 2 - Basic SELECT & FROMTopics:SELECT columnl, column2SELECT "Renaming co
 SESSION 3 - WHERE Clause & Operators Topics:WHERE=, <>, >, <, <=, >=Logical operators AND, OR, NOTDemo:Filter employees with salary > 50000 and in "IT" dept.
 SESSION 4 - Wildcards & Pattern Matching (LIKE, BETWEEN, IN) Topics:LIKE ("R%") BETWEEN (ranges) IN (multiple values) Demo:Find all customers whose names start with 'M'.
 SESSION 5 - DISTINCT, ORDER BY, LIMITTopics:DISTINCTSorting (ASC, DESC) Limiting rows Demo: Top 10 highest selling products.
-SESSION 6 - Aggregate Functions Topics:SUM(), COUNT(), AVG(), MIN(), MAX() Rounding numbers (ROUND) Demo: Total revenue, average salary, highest order
-value.
+SESSION 6 - Aggregate Functions Topics:SUM(), COUNT(), AVG(), MIN(), MAX() Rounding numbers (ROUND) Demo: Total revenue, average salary, highest order value.
+SESSION 7 - GROUP BY & HAVING (Critical Analytics Topic) Topics: GROUP BY basicsHAVING vs WHEREAggregation filters Demo: Total revenue per region? show only regions with revenue > 1M.
+SESSION 8 - JOINS: INNER, LEFT, RIGHT (Foundation Session) Topics: Relationship between tables Primary / Foreign KeysINNER JOINLEFT JOINRIGHT JOINDemo:Join Orders + Customers? Customer Segment? Revenue.
